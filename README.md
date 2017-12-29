@@ -1,6 +1,6 @@
 # lispHiragiEx
 
-Esses são programas Lisp com base na lista de exercícios de Lisp do professor Gilberto Hiragi do UniCeub do semestre 2/2017.
+Esses são programas Lisp com base na lista de exercícios de Paradigmas de Linguagem de Programação do professor Gilberto Hiragi do UniCeub do semestre 2/2017.
 
 # exercícios
 
