@@ -1,0 +1,15 @@
+(defun contar (inicio fim soma)
+  (print inicio)
+  (if (<= (+ inicio soma) fim)
+    (contar (+ inicio soma) fim soma)
+    nil
+  )
+)
+
+(print "Digite o numero inicial: ")
+(defvar inicio (read))
+(print "Digite o número de incremento: ")
+(defvar passo (read))
+(print "Digite o numero final: ")
+(defvar fim (read))
+(contar inicio fim passo)
